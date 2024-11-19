@@ -1,0 +1,10 @@
+
+body {background-color:rgb(161, 31, 109);}
+h1 {color: rgb(72, 255, 0); font-family: verdana; font-size: 70pt;}
+h2 {color: black; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 25pt;}
+p    {color: red;}
+div {
+    width:1000px;
+    margin:auto;
+  }
+button { background-color: rgb(255, 255, 0);}
